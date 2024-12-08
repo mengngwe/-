@@ -4,7 +4,7 @@ import math
 import random
 import numpy as np
 import pandas as pd
-from scipy.stats import norm
+# from scipy.stats import norm
 
 import torch
 from torch import nn, optim
